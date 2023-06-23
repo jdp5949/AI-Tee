@@ -1,1 +1,1 @@
-# AIT-shirtDesignGenerator
+# AiT-shirtDesignGenerator
