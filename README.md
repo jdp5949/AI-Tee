@@ -1,1 +1,1 @@
-# AiT-shirtDesignGenerator
+# AI-Tee
